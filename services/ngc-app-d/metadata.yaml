@@ -1,0 +1,22 @@
+displayName: NGC Application D 
+description: NGC Application D 5.0.1beta
+category:
+- NGC Applications
+type: catalog
+allowMultipleInstances: false
+scope:
+- workspace
+overview: |-
+  ## Revision Notes 
+  Here are some notes on NGC Application D
+
+  ## Installation
+  Install notes ...
+
+  ## NGC Application D Notes
+  Notes ...
+
+  ## Operations
+  Operations notes ...
+  
+icon: 
